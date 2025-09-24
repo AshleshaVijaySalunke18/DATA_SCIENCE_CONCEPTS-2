@@ -1,0 +1,209 @@
+2025-04-03 16:39:45 [ERROR] User logged in: user123
+2025-04-03 16:39:47 [CRITICAL] User logged out: user456
+2025-04-03 16:39:49 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:39:51 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:39:53 [INFO] User logged in: user123
+2025-04-03 16:39:55 [WARNING] High memory usage detected
+2025-04-03 16:39:57 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:39:59 [INFO] Server crash detected! Restarting..
+2025-04-03 16:40:01 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:40:03 [INFO] User logged in: user123
+2025-04-03 16:40:05 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:40:07 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:40:09 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:40:11 [ERROR] Database connection failed: timeout
+2025-04-03 16:40:13 [ERROR] File uploaded: report.pdf
+2025-04-03 16:40:15 [INFO] User logged out: user456
+2025-04-03 16:40:17 [INFO] User logged out: user456
+2025-04-03 16:40:19 [WARNING] File uploaded: report.pdf
+2025-04-03 16:40:21 [WARNING] High memory usage detected
+2025-04-03 16:40:23 [ERROR] User logged out: user456
+2025-04-03 16:40:25 [WARNING] File uploaded: report.pdf
+2025-04-03 16:40:27 [ERROR] File uploaded: report.pdf
+2025-04-03 16:40:29 [WARNING] Database connection failed: timeout
+2025-04-03 16:40:31 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:40:33 [CRITICAL] High memory usage detected
+2025-04-03 16:40:35 [INFO] High memory usage detected
+2025-04-03 16:40:37 [CRITICAL] User logged out: user456
+2025-04-03 16:40:39 [INFO] High memory usage detected
+2025-04-03 16:40:41 [ERROR] Database connection failed: timeout
+2025-04-03 16:40:43 [ERROR] File uploaded: report.pdf
+2025-04-03 16:40:45 [INFO] File uploaded: report.pdf
+2025-04-03 16:40:47 [WARNING] User logged in: user123
+2025-04-03 16:40:49 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:40:51 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:40:53 [CRITICAL] User logged in: user123
+2025-04-03 16:40:55 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:40:57 [CRITICAL] User logged in: user123
+2025-04-03 16:40:59 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:41:01 [WARNING] Database connection failed: timeout
+2025-04-03 16:41:03 [CRITICAL] User logged out: user456
+2025-04-03 16:41:05 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:41:07 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:41:09 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:41:11 [WARNING] High memory usage detected
+2025-04-03 16:46:34 [INFO] User logged out: user456
+2025-04-03 16:46:36 [INFO] Server crash detected! Restarting..
+2025-04-03 16:46:38 [INFO] Server crash detected! Restarting..
+2025-04-03 16:46:40 [INFO] Database connection failed: timeout
+2025-04-03 16:46:42 [ERROR] High memory usage detected
+2025-04-03 16:46:44 [CRITICAL] High memory usage detected
+2025-04-03 16:46:46 [WARNING] Database connection failed: timeout
+2025-04-03 16:46:48 [WARNING] User logged out: user456
+2025-04-03 16:46:50 [WARNING] File uploaded: report.pdf
+2025-04-03 16:46:52 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:46:54 [ERROR] User logged in: user123
+2025-04-03 16:46:56 [WARNING] User logged in: user123
+2025-04-03 16:46:58 [WARNING] User logged out: user456
+2025-04-03 16:47:00 [WARNING] User logged in: user123
+2025-04-03 16:47:02 [WARNING] High memory usage detected
+2025-04-03 16:47:04 [INFO] Database connection failed: timeout
+2025-04-03 16:47:06 [INFO] File uploaded: report.pdf
+2025-04-03 16:47:08 [WARNING] User logged in: user123
+2025-04-03 16:47:10 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:47:12 [ERROR] Server crash detected! Restarting..
+2025-04-03 16:47:14 [ERROR] User logged out: user456
+2025-04-03 16:47:16 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:47:18 [WARNING] User logged out: user456
+2025-04-03 16:47:20 [WARNING] Database connection failed: timeout
+2025-04-03 16:47:22 [CRITICAL] User logged in: user123
+2025-04-03 16:47:24 [WARNING] Database connection failed: timeout
+2025-04-03 16:47:26 [INFO] File uploaded: report.pdf
+2025-04-03 16:47:28 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:47:30 [ERROR] File uploaded: report.pdf
+2025-04-03 16:47:32 [INFO] Database connection failed: timeout
+2025-04-03 16:47:34 [ERROR] Database connection failed: timeout
+2025-04-03 16:47:36 [INFO] High memory usage detected
+2025-04-03 16:47:38 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:47:40 [WARNING] File uploaded: report.pdf
+2025-04-03 16:47:42 [ERROR] File uploaded: report.pdf
+2025-04-03 16:47:44 [CRITICAL] User logged in: user123
+2025-04-03 16:47:46 [ERROR] User logged in: user123
+2025-04-03 16:47:48 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:47:50 [CRITICAL] User logged out: user456
+2025-04-03 16:47:52 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:47:54 [CRITICAL] User logged out: user456
+2025-04-03 16:47:56 [INFO] User logged in: user123
+2025-04-03 16:47:58 [CRITICAL] User logged in: user123
+2025-04-03 16:48:00 [WARNING] File uploaded: report.pdf
+2025-04-03 16:48:02 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:48:04 [ERROR] User logged in: user123
+2025-04-03 16:48:06 [WARNING] User logged out: user456
+2025-04-03 16:48:08 [CRITICAL] High memory usage detected
+2025-04-03 16:48:10 [INFO] User logged out: user456
+2025-04-03 16:48:12 [WARNING] File uploaded: report.pdf
+2025-04-03 16:48:14 [CRITICAL] User logged in: user123
+2025-04-03 16:48:16 [CRITICAL] High memory usage detected
+2025-04-03 16:48:18 [INFO] User logged in: user123
+2025-04-03 16:48:20 [ERROR] High memory usage detected
+2025-04-03 16:48:22 [INFO] File uploaded: report.pdf
+2025-04-03 16:48:24 [WARNING] File uploaded: report.pdf
+2025-04-03 16:48:26 [INFO] Database connection failed: timeout
+2025-04-03 16:48:28 [WARNING] Database connection failed: timeout
+2025-04-03 16:48:30 [INFO] Server crash detected! Restarting..
+2025-04-03 16:48:32 [WARNING] High memory usage detected
+2025-04-03 16:48:34 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:48:36 [INFO] User logged out: user456
+2025-04-03 16:48:38 [CRITICAL] High memory usage detected
+2025-04-03 16:48:40 [WARNING] User logged in: user123
+2025-04-03 16:48:42 [ERROR] User logged out: user456
+2025-04-03 16:48:44 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:48:46 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:48:48 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:48:50 [ERROR] High memory usage detected
+2025-04-03 16:48:52 [INFO] User logged in: user123
+2025-04-03 16:48:54 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:48:56 [WARNING] High memory usage detected
+2025-04-03 16:48:58 [ERROR] File uploaded: report.pdf
+2025-04-03 16:49:00 [ERROR] Database connection failed: timeout
+2025-04-03 16:49:02 [INFO] Server crash detected! Restarting..
+2025-04-03 16:49:04 [ERROR] File uploaded: report.pdf
+2025-04-03 16:49:06 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:49:08 [WARNING] User logged out: user456
+2025-04-03 16:49:10 [INFO] Server crash detected! Restarting..
+2025-04-03 16:49:12 [INFO] File uploaded: report.pdf
+2025-04-03 16:49:14 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:49:16 [ERROR] File uploaded: report.pdf
+2025-04-03 16:49:18 [INFO] File uploaded: report.pdf
+2025-04-03 16:49:20 [INFO] User logged in: user123
+2025-04-03 16:49:22 [INFO] File uploaded: report.pdf
+2025-04-03 16:49:24 [ERROR] User logged in: user123
+2025-04-03 16:49:26 [ERROR] User logged in: user123
+2025-04-03 16:49:28 [ERROR] User logged in: user123
+2025-04-03 16:49:30 [WARNING] User logged out: user456
+2025-04-03 16:49:32 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:49:34 [WARNING] File uploaded: report.pdf
+2025-04-03 16:49:36 [CRITICAL] User logged out: user456
+2025-04-03 16:49:38 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:49:40 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:49:42 [INFO] User logged in: user123
+2025-04-03 16:49:44 [CRITICAL] User logged out: user456
+2025-04-03 16:49:46 [WARNING] User logged in: user123
+2025-04-03 16:49:48 [ERROR] High memory usage detected
+2025-04-03 16:49:50 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:49:52 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:49:54 [INFO] Server crash detected! Restarting..
+2025-04-03 16:49:56 [INFO] High memory usage detected
+2025-04-03 16:49:58 [INFO] User logged in: user123
+2025-04-03 16:50:00 [INFO] File uploaded: report.pdf
+2025-04-03 16:50:02 [ERROR] User logged out: user456
+2025-04-03 16:50:04 [CRITICAL] High memory usage detected
+2025-04-03 16:50:06 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:50:08 [INFO] File uploaded: report.pdf
+2025-04-03 16:50:10 [ERROR] Server crash detected! Restarting..
+2025-04-03 16:50:12 [INFO] Server crash detected! Restarting..
+2025-04-03 16:50:14 [ERROR] Server crash detected! Restarting..
+2025-04-03 16:50:16 [ERROR] Database connection failed: timeout
+2025-04-03 16:50:18 [INFO] Server crash detected! Restarting..
+2025-04-03 16:50:20 [WARNING] File uploaded: report.pdf
+2025-04-03 16:50:22 [CRITICAL] User logged in: user123
+2025-04-03 16:50:24 [INFO] Database connection failed: timeout
+2025-04-03 16:50:26 [INFO] File uploaded: report.pdf
+2025-04-03 16:50:28 [INFO] File uploaded: report.pdf
+2025-04-03 16:50:30 [CRITICAL] High memory usage detected
+2025-04-03 16:50:32 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:50:34 [INFO] Server crash detected! Restarting..
+2025-04-03 16:50:36 [INFO] Database connection failed: timeout
+2025-04-03 16:50:38 [WARNING] User logged out: user456
+2025-04-03 16:50:40 [WARNING] Server crash detected! Restarting..
+2025-04-03 16:50:42 [WARNING] High memory usage detected
+2025-04-03 16:50:44 [INFO] High memory usage detected
+2025-04-03 16:50:46 [WARNING] User logged in: user123
+2025-04-03 16:50:48 [INFO] File uploaded: report.pdf
+2025-04-03 16:50:50 [ERROR] File uploaded: report.pdf
+2025-04-03 16:50:52 [CRITICAL] User logged in: user123
+2025-04-03 16:50:54 [WARNING] Database connection failed: timeout
+2025-04-03 16:50:56 [CRITICAL] High memory usage detected
+2025-04-03 16:50:58 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:51:00 [WARNING] User logged in: user123
+2025-04-03 16:51:02 [CRITICAL] High memory usage detected
+2025-04-03 16:51:04 [INFO] File uploaded: report.pdf
+2025-04-03 16:51:06 [INFO] User logged in: user123
+2025-04-03 16:51:08 [INFO] Server crash detected! Restarting..
+2025-04-03 16:51:10 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:51:12 [ERROR] Server crash detected! Restarting..
+2025-04-03 16:51:14 [INFO] Database connection failed: timeout
+2025-04-03 16:51:16 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:51:18 [ERROR] Database connection failed: timeout
+2025-04-03 16:51:20 [ERROR] User logged out: user456
+2025-04-03 16:51:22 [INFO] User logged in: user123
+2025-04-03 16:51:24 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:51:26 [ERROR] User logged in: user123
+2025-04-03 16:51:28 [INFO] High memory usage detected
+2025-04-03 16:51:30 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:51:32 [ERROR] User logged in: user123
+2025-04-03 16:51:34 [ERROR] File uploaded: report.pdf
+2025-04-03 16:51:36 [ERROR] Database connection failed: timeout
+2025-04-03 16:51:38 [ERROR] User logged in: user123
+2025-04-03 16:51:40 [ERROR] High memory usage detected
+2025-04-03 16:51:42 [ERROR] User logged in: user123
+2025-04-03 16:51:44 [WARNING] User logged in: user123
+2025-04-03 16:51:46 [ERROR] User logged out: user456
+2025-04-03 16:51:48 [CRITICAL] File uploaded: report.pdf
+2025-04-03 16:51:50 [ERROR] File uploaded: report.pdf
+2025-04-03 16:51:52 [ERROR] User logged in: user123
+2025-04-03 16:51:54 [CRITICAL] Server crash detected! Restarting..
+2025-04-03 16:51:56 [INFO] User logged out: user456
+2025-04-03 16:51:58 [ERROR] Database connection failed: timeout
+2025-04-03 16:52:00 [CRITICAL] Database connection failed: timeout
+2025-04-03 16:52:02 [CRITICAL] User logged out: user456
